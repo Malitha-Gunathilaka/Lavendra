@@ -2,6 +2,7 @@ import React from 'react';
 import Navbar from './components/Navbar';
 import HeroSection from './components/Herosection';
 import Products from './components/products';
+import Products from "./components/products";
 import Footer from './components/Footer';
 
 const App = () => {
